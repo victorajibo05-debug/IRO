@@ -1,0 +1,6 @@
+{
+  "name": "Akungba IRO",
+  "description": "An Issues Reporting Outlet (IRO) for students and indigenes of Akungba, Ondo State to report and track security, infrastructure, and sanitation issues in their community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
